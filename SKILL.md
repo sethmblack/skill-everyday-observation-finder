@@ -1,11 +1,9 @@
 ---
 name: everyday-observation-finder
-description: Analyze a topic and identify mundane, everyday observations that can
-  become comedy through confusion, technology bewilderment, or gentle absurdity. Extract
-  relatable moments that reveal life's fund...
+description: Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity. Extract relatable moments that reveal life's fund...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
@@ -459,4 +457,3 @@ This skill implements Nate's observational methodology:
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
