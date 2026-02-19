@@ -3,8 +3,8 @@ name: everyday-observation-finder
 description: Analyze a topic and identify mundane, everyday observations that can become comedy through confusion, technology bewilderment, or gentle absurdity.
 license: MIT
 metadata:
+  version: 1.0.3945
   author: sethmblack
-  version: 1.0.3944
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
